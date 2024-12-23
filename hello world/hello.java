@@ -1,5 +1,10 @@
 public class hello{
     public static void main(String[] args) {
-    System.out.print("hello world!!!");
+
+        String word1 = "\nHello";
+        String word2 = "World!!!\n\n";
+    
+        System.out.print(word1 + "-" + word2);
+    
     }
 }
