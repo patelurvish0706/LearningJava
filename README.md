@@ -2,31 +2,35 @@
 
 This is my java repo that i created to learn and practice Java programming for *DSA*
 
-**Folder - HelloWorldProg**<br>
-***File - Hello.java***
+<h4>Folder: HelloWorldProg</h4>
+<h5>File: Hello.java</h5>
+
 <ul>
 <li>Printing String</li>
 • Concating two string variable like Hello + world!!! and print it.<br>
 --> HelloWorld!!!
-<br>
+<br><br>
 
 <li>Printing Integer</li>
 • Printing sum of two interger like 10 and 20.<br>
 --> 10 + 20 = 30
-<br>
+<br><br>
 
 <li>Printing Sting + Integer</li>
 • Printing sting with integer that consider whole as a string.<br>
---> HelloWorld!!!1020<br>
+--> HelloWorld!!!1020<br><br>
 • Printing integer with string that print operation of strig and for string it consider whole as string.<br>
 --> 30HelloWorld!!!
-<br>
+<br><br>
 
 <li>Operation with the same variable</li>
 • Adding same variable in that variable with additon.<br>
 • here, x = 5 so x = x means x consider 5. then + 5 means adding 5 in exsisting x. so the output is 10.<br>
 --> 10
 </ul>
-<br>
+
+<h4>Folder: MathsProg</h4>
+<h5>File: Hello.java</h5>
+Simple Maths practicals and Tests.
 
 -Urvish0706
