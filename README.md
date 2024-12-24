@@ -33,4 +33,21 @@ This is my java repo that i created to learn and practice Java programming for *
 <h5>File: Hello.java</h5>
 Simple Maths practicals and Tests.
 
--Urvish0706
+<li>Practical 1 : Simple Interest Counter.</li>
+
+The formula for calculating simple interest is:
+
+Simple Interest (SI) = (P * R * T) / 100   
+
+Where:
+
+P is the principal amount (the initial amount borrowed or invested)   
+R is the rate of interest per year (expressed as a percentage)   
+T is the time period in years   
+Example:
+
+If you borrow $1,000 at an annual interest rate of 5% for 3 years, the simple interest would be:
+
+SI = (1000 * 5 * 3) / 100 = $150   
+
+To calculate simple interest, you need to know the principal amount, the interest rate, and the time period.
