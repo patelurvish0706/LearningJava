@@ -1,12 +1,9 @@
-// pract1 -> interest counter
-// pract2 -> all shape area counter by choocing shape and according that calculation
-
 /* Practical - 1 : Interest Counter */
 package LearningJava.MathsProg;
-import java.net.Socket;
+
 import java.util.Scanner;
 
-public class maths {
+public class InterestCount {
     public static void main(String[] args) {
 
         int PrincipalAmount;
